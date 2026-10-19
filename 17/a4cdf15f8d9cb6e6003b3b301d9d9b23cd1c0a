@@ -1,0 +1,14 @@
+README.md
+  h_d9f92dafcf32aa 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "17a4cdf15f8d9cb6e6003b3b301d9d9b23cd1c0a",
+  "prompts": {},
+  "humans": {
+    "h_d9f92dafcf32aa": {
+      "author": "Serhii Klymoshenko <Serhii.Klymoshenko@clinisys.com>"
+    }
+  }
+}
