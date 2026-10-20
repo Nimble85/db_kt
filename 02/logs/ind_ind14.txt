@@ -1,0 +1,7 @@
+sqlite> explain query plan select * from products where sku = 'SM-2002';
+QUERY PLAN
+`--SEARCH products USING INDEX idx_products_sku (sku=?)
+sqlite> explain query plan select * from products where name = 'Samsung A56';
+QUERY PLAN
+`--SEARCH products USING INDEX idx_products_name (name=?)
+sqlite>

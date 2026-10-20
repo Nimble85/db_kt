@@ -1,0 +1,3 @@
+sqlite> insert into students(name, age) values('Petya', 21);
+sqlite> insert into students(name, age) values('Vasya', 20);
+sqlite>

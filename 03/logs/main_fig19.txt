@@ -1,0 +1,5 @@
+sqlite> select count(*) from episodes where season = 2;
+count(*)
+--------
+13      
+sqlite>

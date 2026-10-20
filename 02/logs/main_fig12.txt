@@ -1,0 +1,3 @@
+sqlite> .schema groups
+CREATE TABLE groups(id integer primary key autoincrement, number text, starosta text);
+sqlite>

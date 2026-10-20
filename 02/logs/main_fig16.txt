@@ -1,0 +1,5 @@
+sqlite> insert into passport values('EO', '123432', 'Mykolaiv');
+sqlite> insert into passport values('EK', '123432', 'Odesa');
+sqlite> insert into passport values('EK', '123432', 'Kiev');
+Runtime error: UNIQUE constraint failed: passport.seria, passport.number (19)
+sqlite>

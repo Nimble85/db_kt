@@ -1,0 +1,5 @@
+sqlite> select count(distinct season) from episodes;
+count(distinct season)
+----------------------
+9                     
+sqlite>

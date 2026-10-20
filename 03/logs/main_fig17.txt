@@ -1,0 +1,6 @@
+sqlite> select * from episodes where season = 3 and name like '%boyfriend%';
+id  season  name           
+--  ------  ---------------
+32  3       The Boyfriend 1
+33  3       The Boyfriend 2
+sqlite>

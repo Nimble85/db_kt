@@ -1,0 +1,12 @@
+sqlite> select * from foods where type_id in (2,3);
+id  type_id  name                                        
+--  -------  --------------------------------------------
+48  2        Bran                                        
+49  2        Cheerios                                    
+50  2        Corn Flakes                                 
+51  2        Double Crunch                               
+52  2        Fruit Loops                                 
+53  2        Grape Nuts                                  
+54  2        Honey Combs                                 
+[... вивід скорочено ...]
+sqlite>

@@ -1,0 +1,4 @@
+sqlite> insert into students(id, name, age) values(1, 'Vasya', 20);
+sqlite> insert into students(id, name, age) values(1, 'Petya', 21);
+Runtime error: UNIQUE constraint failed: students.id (19)
+sqlite>

@@ -1,0 +1,6 @@
+sqlite> .import --csv --skip 1 stud.csv students
+sqlite> select count(*) as cnt from students;
+cnt
+---
+3  
+sqlite>

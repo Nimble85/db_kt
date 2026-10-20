@@ -1,0 +1,6 @@
+sqlite> .tables
+students
+sqlite> alter table students rename to stud;
+sqlite> .tables
+stud
+sqlite>

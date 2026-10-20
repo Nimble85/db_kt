@@ -1,0 +1,14 @@
+sqlite> select * from foods where type_id = 1 order by name desc;
+id   type_id  name                             
+---  -------  ---------------------------------
+47   1        Wedding Cake (Royal)             
+46   1        Triscuits                        
+45   1        Poppy Seed Muffins               
+35   1        Pizza Bagels                     
+37   1        Pie (blueberry)                  
+42   1        Pie (Strawberry)                 
+41   1        Pie (Raspberry)                  
+44   1        Pie (Peach)                      
+40   1        Pie (Huckleberry)                
+[... вивід скорочено ...]
+sqlite>

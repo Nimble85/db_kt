@@ -1,0 +1,18 @@
+sqlite> .width auto
+sqlite> select * from episodes where season = 2;
+id  season  name                  
+--  ------  ----------------------
+5   2       The Ex-Girlfriend     
+6   2       The Pony Remark       
+7   2       The Busboy            
+8   2       The Baby Shower       
+9   2       The Jacket            
+10  2       The Chinese Restaurant
+11  2       The Phone Message     
+12  2       The Apartment         
+13  2       The Stranded          
+14  2       The Statue            
+15  2       The Heart Attack      
+16  2       The Revenge           
+17  2       The Deal              
+sqlite>

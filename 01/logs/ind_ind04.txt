@@ -1,0 +1,9 @@
+sqlite> CREATE TABLE books(
+(x1...> id INTEGER PRIMARY KEY AUTOINCREMENT,
+(x1...> title TEXT NOT NULL,
+(x1...> author_id INTEGER,
+(x1...> year INTEGER,
+(x1...> pages INTEGER,
+(x1...> FOREIGN KEY(author_id) REFERENCES authors(id)
+(x1...> );
+sqlite>

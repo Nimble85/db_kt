@@ -1,0 +1,9 @@
+sqlite> insert into students(name, age, group_id)
+   ...> values('Vasya', 20, 1);
+sqlite> insert into students(name, age, group_id)
+   ...> values('Petya', 220, 1);
+Runtime error: CHECK constraint failed: age>0 and age<150 (19)
+sqlite> insert into students(name, age, group_id)
+   ...> values('Klya', -2, 2);
+Runtime error: CHECK constraint failed: age>0 and age<150 (19)
+sqlite>

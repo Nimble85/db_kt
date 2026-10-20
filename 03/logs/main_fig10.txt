@@ -1,0 +1,9 @@
+sqlite> select name from episodes LIMIT 5;
+name              
+------------------
+Good News Bad News
+Male Unbonding    
+The Stake Out     
+The Robbery       
+The Stock Tip     
+sqlite>

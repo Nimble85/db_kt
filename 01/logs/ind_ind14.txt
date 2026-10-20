@@ -1,0 +1,25 @@
+sqlite> .import --csv --skip 1 authors.csv authors
+sqlite> .import --csv --skip 1 books.csv books
+sqlite> select count(*) as authors from authors;
+authors
+-------
+9      
+sqlite> select count(*) as books from books;
+books
+-----
+11   
+sqlite> select b.id, b.title, a.full_name from books b join authors a on a.id = b.author_id order by b.id;
+id  title                  full_name             
+--  ---------------------  ----------------------
+1   Kobzar                 Taras Shevchenko      
+2   Lisova pisnia          Lesya Ukrainka        
+3   Zakhar Berkut          Ivan Franko           
+4   Tini zabutykh predkiv  Mykhailo Kotsiubynskyi
+5   1984                   George Orwell         
+6   Animal Farm            George Orwell         
+7   Fahrenheit 451         Ray Bradbury          
+8   Solaris                Stanislaw Lem         
+9   The Trial              Franz Kafka           
+10  Norwegian Wood         Haruki Murakami       
+11  Kafka on the Shore     Haruki Murakami       
+sqlite>

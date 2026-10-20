@@ -1,0 +1,11 @@
+sqlite> select t.name, count(f.id) as foods_count
+   ...> from food_types t inner join foods f on f.type_id = t.id
+   ...> group by t.id, t.name
+   ...> order by foods_count desc
+   ...> limit 3;
+name      foods_count
+--------  -----------
+Junkfood  61         
+Drinks    60         
+Bakery    48         
+sqlite>

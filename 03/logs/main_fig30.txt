@@ -1,0 +1,12 @@
+sqlite> select e.season, count(distinct f.food_id)
+   ...> from episodes e inner join foods_episodes f
+   ...> on e.id = f.episode_id
+   ...> group by e.season
+   ...> order by 2 desc
+   ...> limit 3;
+season  count(distinct f.food_id)
+------  -------------------------
+9       82                       
+5       73                       
+6       69                       
+sqlite>

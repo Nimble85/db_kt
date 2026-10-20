@@ -1,0 +1,8 @@
+sqlite> .output library_dump.sql
+sqlite> .dump
+sqlite> .output stdout
+sqlite> .backup library_backup.db
+sqlite> .shell ls -l library_dump.sql library_backup.db
+-rw-r--r--@ 1 sklymo  staff  16384 Oct 19 17:37 library_backup.db
+-rw-r--r--@ 1 sklymo  staff   1562 Oct 19 17:37 library_dump.sql
+sqlite>

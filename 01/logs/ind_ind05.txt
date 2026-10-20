@@ -1,0 +1,18 @@
+sqlite> .tables
+authors  books  
+sqlite> .schema
+CREATE TABLE authors(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+full_name TEXT NOT NULL,
+country TEXT
+);
+CREATE TABLE sqlite_sequence(name,seq);
+CREATE TABLE books(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+title TEXT NOT NULL,
+author_id INTEGER,
+year INTEGER,
+pages INTEGER,
+FOREIGN KEY(author_id) REFERENCES authors(id)
+);
+sqlite>

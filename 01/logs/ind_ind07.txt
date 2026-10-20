@@ -1,0 +1,28 @@
+sqlite> insert into books(title, author_id, year, pages) values('Kobzar', 1, 1840, 320);
+sqlite> insert into books(title, author_id, year, pages) values('Lisova pisnia', 2, 1911, 128);
+sqlite> insert into books(title, author_id, year, pages) values('Zakhar Berkut', 3, 1883, 256);
+sqlite> insert into books(title, author_id, year, pages) values('Tini zabutykh predkiv', 4, 1911, 144);
+sqlite> insert into books(title, author_id, year, pages) values('1984', 5, 1949, 328);
+sqlite> insert into books(title, author_id, year, pages) values('Animal Farm', 5, 1945, 112);
+sqlite> insert into books(title, author_id, year, pages) values('Fahrenheit 451', 6, 1953, 256);
+sqlite> insert into books(title, author_id, year, pages) values('Solaris', 7, 1961, 204);
+sqlite> insert into books(title, author_id, year, pages) values('The Trial', 8, 1925, 255);
+sqlite> insert into books(title, author_id, year, pages) values('Norwegian Wood', 9, 1987, 296);
+sqlite> insert into books(title, author_id, year, pages) values('Kafka on the Shore', 9, 2002, 505);
+sqlite> insert into books(title, author_id, year, pages) values('The Castle', 8, 1926, 352);
+sqlite> select * from books;
+id  title                  author_id  year  pages
+--  ---------------------  ---------  ----  -----
+1   Kobzar                 1          1840  320  
+2   Lisova pisnia          2          1911  128  
+3   Zakhar Berkut          3          1883  256  
+4   Tini zabutykh predkiv  4          1911  144  
+5   1984                   5          1949  328  
+6   Animal Farm            5          1945  112  
+7   Fahrenheit 451         6          1953  256  
+8   Solaris                7          1961  204  
+9   The Trial              8          1925  255  
+10  Norwegian Wood         9          1987  296  
+11  Kafka on the Shore     9          2002  505  
+12  The Castle             8          1926  352  
+sqlite>

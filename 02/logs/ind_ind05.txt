@@ -1,0 +1,19 @@
+sqlite> .tables
+categories  products  
+sqlite> .schema
+CREATE TABLE categories(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+name TEXT NOT NULL,
+margin REAL CHECK(margin >= 0 AND margin <= 100)
+);
+CREATE TABLE sqlite_sequence(name,seq);
+CREATE TABLE products(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+sku TEXT NOT NULL,
+name TEXT NOT NULL,
+price REAL CHECK(price > 0),
+qty INTEGER CHECK(qty >= 0),
+category_id INTEGER,
+FOREIGN KEY(category_id) REFERENCES categories(id)
+);
+sqlite>

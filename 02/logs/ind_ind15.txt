@@ -1,0 +1,10 @@
+sqlite> select p.id, p.sku, p.name, p.price, c.name as category
+   ...> from products p join categories c on c.id = p.category_id
+   ...> order by c.name, p.name;
+id  sku      name            price    category 
+--  -------  --------------  -------  ---------
+3   AC-3001  Mysha Logitech  749.0    Aksesuary
+1   NB-1001  Lenovo IdeaPad  24999.0  Noutbuky 
+2   SM-2001  Samsung A55     16499.5  Smartfony
+4   SM-2002  Samsung A56     18999.0  Smartfony
+sqlite>

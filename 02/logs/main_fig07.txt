@@ -1,0 +1,3 @@
+sqlite> drop table students;
+sqlite> create table students(id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, age INTEGER);
+sqlite>

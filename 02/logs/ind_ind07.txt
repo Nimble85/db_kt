@@ -1,0 +1,10 @@
+sqlite> insert into products(sku, name, price, qty, category_id) values('NB-1001', 'Lenovo IdeaPad', 24999.00, 7, 1);
+sqlite> insert into products(sku, name, price, qty, category_id) values('SM-2001', 'Samsung A55', 16499.50, 12, 2);
+sqlite> insert into products(sku, name, price, qty, category_id) values('AC-3001', 'Mysha Logitech', 749.00, 40, 3);
+sqlite> select * from products;
+id  sku      name            price    qty  category_id
+--  -------  --------------  -------  ---  -----------
+1   NB-1001  Lenovo IdeaPad  24999.0  7    1          
+2   SM-2001  Samsung A55     16499.5  12   2          
+3   AC-3001  Mysha Logitech  749.0    40   3          
+sqlite>

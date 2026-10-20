@@ -1,0 +1,3 @@
+sqlite> insert into categories(id, name, margin) values(1, 'Planshety', 18);
+Runtime error: UNIQUE constraint failed: categories.id (19)
+sqlite>

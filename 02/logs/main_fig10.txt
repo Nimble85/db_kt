@@ -1,0 +1,2 @@
+sqlite> create table groups(id integer primary key autoincrement, number text, starosta text);
+sqlite>

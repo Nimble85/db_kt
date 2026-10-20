@@ -1,0 +1,6 @@
+sqlite> select * from groups;
+id  number  starosta
+--  ------  --------
+1   201     Ivanov  
+2   202     Petrova 
+sqlite>

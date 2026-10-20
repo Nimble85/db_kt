@@ -1,0 +1,16 @@
+sqlite> .schema
+CREATE TABLE episodes (
+  id integer primary key,
+  season int,
+  name text );
+CREATE TABLE foods(
+  id integer primary key,
+  type_id integer,
+  name text );
+CREATE TABLE foods_episodes(
+  food_id integer,
+  episode_id integer );
+CREATE TABLE food_types(
+  id integer primary key,
+  name text );
+sqlite>

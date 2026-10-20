@@ -1,0 +1,9 @@
+sqlite> select * from foods limit 5;
+id  type_id  name                   
+--  -------  -----------------------
+1   1        Bagels                 
+2   1        Bagels, raisin         
+3   1        Bavarian Cream Pie     
+4   1        Bear Claws             
+5   1        Black and White cookies
+sqlite>

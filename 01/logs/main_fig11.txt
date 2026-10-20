@@ -1,0 +1,5 @@
+sqlite> select * from sqlite_master;
+type   name      tbl_name  rootpage  sql                                              
+-----  --------  --------  --------  -------------------------------------------------
+table  students  students  2         CREATE TABLE students(id int, name text, age int)
+sqlite>

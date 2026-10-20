@@ -1,0 +1,6 @@
+sqlite> CREATE TABLE categories(
+(x1...> id INTEGER PRIMARY KEY AUTOINCREMENT,
+(x1...> name TEXT NOT NULL,
+(x1...> margin REAL CHECK(margin >= 0 AND margin <= 100)
+(x1...> );
+sqlite>

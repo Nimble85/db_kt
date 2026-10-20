@@ -1,0 +1,7 @@
+sqlite> CREATE TABLE students(
+(x1...> id INTEGER PRIMARY KEY AUTOINCREMENT,
+(x1...> name TEXT,
+(x1...> group_id INTEGER,
+(x1...> FOREIGN KEY(group_id) REFERENCES groups(id)
+(x1...> );
+sqlite>

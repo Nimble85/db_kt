@@ -1,0 +1,3 @@
+sqlite> .tables
+students
+sqlite>

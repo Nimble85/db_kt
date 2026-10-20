@@ -1,0 +1,10 @@
+sqlite> .width 3 3 30
+sqlite> select * from foods limit 5;
+id   typ  name                          
+---  ---  ------------------------------
+1    1    Bagels                        
+2    1    Bagels, raisin                
+3    1    Bavarian Cream Pie            
+4    1    Bear Claws                    
+5    1    Black and White cookies       
+sqlite>

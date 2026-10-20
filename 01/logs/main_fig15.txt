@@ -1,0 +1,9 @@
+$ rm myFirstDB.db
+$ ls
+myDump.sql
+myDump2.sql
+$ sqlite3 myFirstDB.db < myDump.sql
+$ ls
+myDump.sql
+myDump2.sql
+myFirstDB.db

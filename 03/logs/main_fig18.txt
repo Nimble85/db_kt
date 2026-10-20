@@ -1,0 +1,5 @@
+sqlite> select count(*) from episodes;
+count(*)
+--------
+181     
+sqlite>

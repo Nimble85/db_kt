@@ -1,0 +1,3 @@
+sqlite> create index stud_age on students(age);
+sqlite> create unique index stud_name on students(name);
+sqlite>

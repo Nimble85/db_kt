@@ -1,0 +1,11 @@
+sqlite> select f.name
+   ...> from foods f inner join food_types t
+   ...> on f.type_id = t.id
+   ...> where f.name like '%salad%' and t.name = 'Vegetables';
+name        
+------------
+Big Salad   
+Chef Salad  
+Potato Salad
+Salad       
+sqlite>

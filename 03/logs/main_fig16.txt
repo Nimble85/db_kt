@@ -1,0 +1,7 @@
+sqlite> select * from foods where name like '%carrot%';
+id   type_id  name       
+---  -------  -----------
+8    1        Carrot Cake
+363  14       Carrot Soup
+387  15       Carrots    
+sqlite>

@@ -1,0 +1,26 @@
+sqlite> .headers on
+sqlite> .mode column
+sqlite> insert into authors(full_name, country) values('Taras Shevchenko', 'Ukraine');
+sqlite> insert into authors(full_name, country) values('Lesya Ukrainka', 'Ukraine');
+sqlite> insert into authors(full_name, country) values('Ivan Franko', 'Ukraine');
+sqlite> insert into authors(full_name, country) values('Mykhailo Kotsiubynskyi', 'Ukraine');
+sqlite> insert into authors(full_name, country) values('George Orwell', 'United Kingdom');
+sqlite> insert into authors(full_name, country) values('Ray Bradbury', 'USA');
+sqlite> insert into authors(full_name, country) values('Stanislaw Lem', 'Poland');
+sqlite> insert into authors(full_name, country) values('Franz Kafka', 'Czech Republic');
+sqlite> insert into authors(full_name, country) values('Haruki Murakami', 'Japan');
+sqlite> insert into authors(full_name, country) values('Isaac Asimov', 'USA');
+sqlite> select * from authors;
+id  full_name               country       
+--  ----------------------  --------------
+1   Taras Shevchenko        Ukraine       
+2   Lesya Ukrainka          Ukraine       
+3   Ivan Franko             Ukraine       
+4   Mykhailo Kotsiubynskyi  Ukraine       
+5   George Orwell           United Kingdom
+6   Ray Bradbury            USA           
+7   Stanislaw Lem           Poland        
+8   Franz Kafka             Czech Republic
+9   Haruki Murakami         Japan         
+10  Isaac Asimov            USA           
+sqlite>

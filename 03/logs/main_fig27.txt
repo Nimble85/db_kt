@@ -1,0 +1,17 @@
+sqlite> select f.name, t.name
+   ...> from foods f inner join food_types t
+   ...> on f.type_id = t.id
+   ...> limit 10;
+name                     name  
+-----------------------  ------
+Bagels                   Bakery
+Bagels, raisin           Bakery
+Bavarian Cream Pie       Bakery
+Bear Claws               Bakery
+Black and White cookies  Bakery
+Bread (with nuts)        Bakery
+Butterfingers            Bakery
+Carrot Cake              Bakery
+Chips Ahoy Cookies       Bakery
+Chocolate Bobka          Bakery
+sqlite>

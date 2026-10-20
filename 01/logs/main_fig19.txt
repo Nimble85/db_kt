@@ -1,0 +1,10 @@
+sqlite> .mode csv
+sqlite> .output stud.csv
+sqlite> select * from students;
+sqlite> .output stdout
+sqlite> .shell cat stud.csv
+id,name,age
+1,Ivanov,20
+2,Petrov,19
+3,Sidorov,21
+sqlite>

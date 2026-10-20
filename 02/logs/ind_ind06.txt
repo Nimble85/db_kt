@@ -1,0 +1,12 @@
+sqlite> .headers on
+sqlite> .mode column
+sqlite> insert into categories(name, margin) values('Noutbuky', 15);
+sqlite> insert into categories(name, margin) values('Smartfony', 20);
+sqlite> insert into categories(name, margin) values('Aksesuary', 35);
+sqlite> select * from categories;
+id  name       margin
+--  ---------  ------
+1   Noutbuky   15.0  
+2   Smartfony  20.0  
+3   Aksesuary  35.0  
+sqlite>

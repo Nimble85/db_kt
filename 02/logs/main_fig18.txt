@@ -1,0 +1,2 @@
+sqlite> update students set group_id = 3;
+sqlite>

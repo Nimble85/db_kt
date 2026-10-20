@@ -1,0 +1,5 @@
+sqlite> insert into products(sku, name, price, qty, category_id) values('XX-9001', 'Nevidoma kategoriya', 500, 1, 99);
+Runtime error: FOREIGN KEY constraint failed (19)
+sqlite> delete from categories where id = 1;
+Runtime error: FOREIGN KEY constraint failed (19)
+sqlite>

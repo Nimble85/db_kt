@@ -1,0 +1,10 @@
+sqlite> CREATE TABLE products(
+(x1...> id INTEGER PRIMARY KEY AUTOINCREMENT,
+(x1...> sku TEXT NOT NULL,
+(x1...> name TEXT NOT NULL,
+(x1...> price REAL CHECK(price > 0),
+(x1...> qty INTEGER CHECK(qty >= 0),
+(x1...> category_id INTEGER,
+(x1...> FOREIGN KEY(category_id) REFERENCES categories(id)
+(x1...> );
+sqlite>

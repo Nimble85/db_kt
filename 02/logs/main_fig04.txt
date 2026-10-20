@@ -1,0 +1,6 @@
+sqlite> .schema stud
+CREATE TABLE IF NOT EXISTS "stud"(id int, name text);
+sqlite> alter table stud add column age int;
+sqlite> .schema stud
+CREATE TABLE IF NOT EXISTS "stud"(id int, name text, age int);
+sqlite>

@@ -1,0 +1,5 @@
+sqlite> create table students(id int, name text, age int);
+sqlite> insert into students values(1, 'Ivanov', 20);
+sqlite> insert into students values(2, 'Petrov', 19);
+sqlite> insert into students values(3, 'Sidorov', 21);
+sqlite>

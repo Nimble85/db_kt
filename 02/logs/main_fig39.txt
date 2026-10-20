@@ -1,0 +1,6 @@
+sqlite> select * from sqlite_master where type='index';
+type   name                         tbl_name  rootpage  sql                                   
+-----  ---------------------------  --------  --------  --------------------------------------
+index  sqlite_autoindex_passport_1  passport  6                                               
+index  stud_age                     students  7         CREATE INDEX stud_age on students(age)
+sqlite>

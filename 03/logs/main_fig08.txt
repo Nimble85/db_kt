@@ -1,0 +1,19 @@
+sqlite> select name from food_types;
+name        
+------------
+Bakery      
+Cereal      
+Chicken/Fowl
+Condiments  
+Dairy       
+Dip         
+Drinks      
+Fruit       
+Junkfood    
+Meat        
+Rice/Pasta  
+Sandwiches  
+Seafood     
+Soup        
+Vegetables  
+sqlite>

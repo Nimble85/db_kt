@@ -1,0 +1,4 @@
+sqlite> pragma foreign_keys = on;
+sqlite> pragma foreign_keys;
+1
+sqlite>

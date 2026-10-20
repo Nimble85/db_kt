@@ -1,0 +1,18 @@
+sqlite> select e.season, count(distinct f.type_id) as types_count
+   ...> from episodes e inner join foods_episodes fe on fe.episode_id = e.id
+   ...> inner join foods f on f.id = fe.food_id
+   ...> group by e.season
+   ...> order by e.season;
+season  types_count
+------  -----------
+        2          
+1       6          
+2       10         
+3       11         
+4       14         
+5       13         
+6       15         
+7       14         
+8       13         
+9       15         
+sqlite>

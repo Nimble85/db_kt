@@ -1,0 +1,10 @@
+$ sqlite3 library_restored.db < library_dump.sql
+$ sqlite3 -header -column library_restored.db "select count(*) as authors from authors; select count(*) as books from books;"
+authors
+-------
+9      
+books
+-----
+11   
+$ sqlite3 library_backup.db "select count(*) as books_in_backup from books;"
+11

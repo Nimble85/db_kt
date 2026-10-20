@@ -1,0 +1,7 @@
+sqlite> select * from episodes where season = 9 and name like '%fin%';
+id   season  name                 
+---  ------  ---------------------
+161  9       The Merv Griffin Show
+178  9       The Finale 1         
+179  9       The Finale 2         
+sqlite>

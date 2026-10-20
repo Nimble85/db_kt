@@ -1,0 +1,15 @@
+sqlite> select distinct e.*
+   ...> from episodes e inner join foods_episodes fe
+   ...> on e.id = fe.episode_id
+   ...> inner join foods f on fe.food_id = f.id
+   ...> inner join food_types t on f.type_id = t.id
+   ...> where t.name = 'Bakery' and e.season = 5;
+id  season  name                   
+--  ------  -----------------------
+67  5       The Sniffing Accountant
+82  5       The Raincoats 2        
+76  5       The Dinner Party       
+66  5       The Glasses            
+78  5       The Pie                
+75  5       The Stall              
+sqlite>

@@ -1,0 +1,9 @@
+sqlite> insert into students(name, age, group_id)
+   ...> values('Petya', 20, 1);
+sqlite> select * from students;
+id  name   group_id  age
+--  -----  --------  ---
+1   Vasya  1         20 
+2   Petya  2         19 
+3   Petya  1         20 
+sqlite>

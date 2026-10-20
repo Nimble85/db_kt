@@ -1,0 +1,3 @@
+sqlite> .indices students
+stud_age   stud_name
+sqlite>

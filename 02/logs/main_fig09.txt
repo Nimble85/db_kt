@@ -1,0 +1,8 @@
+sqlite> .headers on
+sqlite> .mode column
+sqlite> select * from students;
+id  name   age
+--  -----  ---
+1   Petya  21 
+2   Vasya  20 
+sqlite>

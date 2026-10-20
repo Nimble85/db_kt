@@ -1,0 +1,3 @@
+sqlite> insert into groups(number, starosta) values(201, 'Ivanov');
+sqlite> insert into groups(number, starosta) values(202, 'Petrova');
+sqlite>

@@ -1,0 +1,8 @@
+sqlite> .schema students
+CREATE TABLE students(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+name TEXT,
+group_id INTEGER,
+FOREIGN KEY(group_id) REFERENCES groups(id)
+);
+sqlite>

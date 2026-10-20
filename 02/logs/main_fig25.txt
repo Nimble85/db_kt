@@ -1,0 +1,6 @@
+sqlite> select * from students;
+id  name   age  group_id
+--  -----  ---  --------
+1   Petya  21   1       
+2   Vasya  20   2       
+sqlite>

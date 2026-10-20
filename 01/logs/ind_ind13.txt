@@ -1,0 +1,12 @@
+sqlite> .mode column
+sqlite> delete from books;
+sqlite> delete from authors;
+sqlite> select count(*) as authors from authors;
+authors
+-------
+0      
+sqlite> select count(*) as books from books;
+books
+-----
+0    
+sqlite>

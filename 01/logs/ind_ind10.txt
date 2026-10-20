@@ -1,0 +1,13 @@
+sqlite> delete from books where id = 12;
+sqlite> delete from authors where id = 10;
+sqlite> delete from authors where id = 1;
+Runtime error: FOREIGN KEY constraint failed (19)
+sqlite> select count(*) as authors from authors;
+authors
+-------
+9      
+sqlite> select count(*) as books from books;
+books
+-----
+11   
+sqlite>

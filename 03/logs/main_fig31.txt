@@ -1,0 +1,12 @@
+sqlite> select e.season, count(distinct e.id)
+   ...> from episodes e inner join foods_episodes fe
+   ...> on e.id = fe.episode_id
+   ...> inner join foods f on fe.food_id = f.id
+   ...> where f.name like '%Ice Cream%'
+   ...> group by e.season;
+season  count(distinct e.id)
+------  --------------------
+2       2                   
+4       1                   
+9       2                   
+sqlite>

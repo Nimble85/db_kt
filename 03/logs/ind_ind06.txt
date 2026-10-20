@@ -1,0 +1,9 @@
+sqlite> select f.name, count(distinct fe.episode_id) as episodes_count
+   ...> from foods f inner join foods_episodes fe on fe.food_id = f.id
+   ...> group by f.id, f.name
+   ...> order by episodes_count desc
+   ...> limit 1;
+name     episodes_count
+-------  --------------
+Hot Dog  5             
+sqlite>

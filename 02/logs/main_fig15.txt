@@ -1,0 +1,2 @@
+sqlite> CREATE TABLE passport(seria TEXT, number TEXT, who_gave TEXT, PRIMARY KEY(seria, number));
+sqlite>

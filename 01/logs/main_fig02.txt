@@ -1,0 +1,3 @@
+$ cd ../db && pwd
+/Users/sklymo/Documents/git/university/DBaKT/HT/01/work/db
+$ ls

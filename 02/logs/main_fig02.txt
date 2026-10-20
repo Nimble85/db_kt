@@ -1,0 +1,4 @@
+sqlite> create table students(id int, name text);
+sqlite> .schema students
+CREATE TABLE students(id int, name text);
+sqlite>

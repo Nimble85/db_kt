@@ -1,0 +1,3 @@
+sqlite> .mode column
+sqlite> .headers on
+sqlite>

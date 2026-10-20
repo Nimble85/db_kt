@@ -1,0 +1,7 @@
+sqlite> insert into products(sku, name, price, qty, category_id) values('NB-1002', 'HP Pavilion', -100, 5, 1);
+Runtime error: CHECK constraint failed: price > 0 (19)
+sqlite> insert into products(sku, name, price, qty, category_id) values('NB-1003', 'Acer Aspire', 21000, -3, 1);
+Runtime error: CHECK constraint failed: qty >= 0 (19)
+sqlite> insert into categories(name, margin) values('Monitory', 150);
+Runtime error: CHECK constraint failed: margin >= 0 AND margin <= 100 (19)
+sqlite>

@@ -1,0 +1,2 @@
+sqlite> create unique index stud_name on students(group_id, name);
+sqlite>

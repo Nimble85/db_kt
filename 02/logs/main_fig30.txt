@@ -1,0 +1,2 @@
+sqlite> alter table students add column age INTEGER CHECK(age>0 and age<150);
+sqlite>

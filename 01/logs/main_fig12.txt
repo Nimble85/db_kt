@@ -1,0 +1,4 @@
+sqlite> .output myDump.sql
+sqlite> .dump
+sqlite> .output stdout
+sqlite>

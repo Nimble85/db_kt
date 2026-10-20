@@ -1,0 +1,3 @@
+sqlite> create unique index idx_products_sku on products(sku);
+sqlite> create index idx_products_name on products(name);
+sqlite>

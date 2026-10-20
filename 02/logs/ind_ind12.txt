@@ -1,0 +1,8 @@
+sqlite> .indices products
+idx_products_name  idx_products_sku 
+sqlite> select type, name, tbl_name, sql from sqlite_master where type='index';
+type   name               tbl_name  sql                                                  
+-----  -----------------  --------  -----------------------------------------------------
+index  idx_products_sku   products  CREATE UNIQUE INDEX idx_products_sku on products(sku)
+index  idx_products_name  products  CREATE INDEX idx_products_name on products(name)     
+sqlite>

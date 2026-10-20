@@ -1,0 +1,9 @@
+sqlite> .headers on
+sqlite> .mode column
+sqlite> select * from food_types where name like 'D%';
+id  name  
+--  ------
+5   Dairy 
+6   Dip   
+7   Drinks
+sqlite>

@@ -1,0 +1,14 @@
+sqlite> select * from episodes order by season, name desc;
+id   season  name                              
+---  ------  ----------------------------------
+180          Reunion Special:The Seinfeld Story
+0            Good News Bad News                
+4    1       The Stock Tip                     
+2    1       The Stake Out                     
+3    1       The Robbery                       
+1    1       Male Unbonding                    
+13   2       The Stranded                      
+14   2       The Statue                        
+16   2       The Revenge                       
+[... вивід скорочено ...]
+sqlite>

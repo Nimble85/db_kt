@@ -1,0 +1,8 @@
+sqlite> .mode column
+sqlite> delete from students;
+sqlite> select * from students;
+sqlite> select count(*) as cnt from students;
+cnt
+---
+0  
+sqlite>
