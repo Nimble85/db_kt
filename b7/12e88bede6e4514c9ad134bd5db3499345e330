@@ -1,0 +1,363 @@
+.gitignore
+  s_3abe740d7ebd5f::t_71ad90ab368023 1
+01/README.md
+  s_1835ccfb127cb5::t_036d30c83a541d 1-51
+01/db/authors.csv
+  s_1835ccfb127cb5::t_f1d37f0aa2630d 1-10
+01/db/books.csv
+  s_1835ccfb127cb5::t_78f7af814228d3 1-12
+01/db/library_dump.sql
+  s_1835ccfb127cb5::t_4199f68af45af8 1-38
+01/db/myDump.sql
+  s_1835ccfb127cb5::t_6f8b0deb761ea5 1-7
+01/db/myDump2.sql
+  s_1835ccfb127cb5::t_06d0c9a0c8d78e 1-7
+01/db/stud.csv
+  s_1835ccfb127cb5::t_1db5fb67e5d047 1-4
+01/logs/ind_ind01.txt
+  s_1835ccfb127cb5::t_ecb8741bcc71bb 1-4
+01/logs/ind_ind02.txt
+  s_1835ccfb127cb5::t_6a23a058578fdd 1-4
+01/logs/ind_ind03.txt
+  s_1835ccfb127cb5::t_5a62f87bcf276e 1-6
+01/logs/ind_ind04.txt
+  s_1835ccfb127cb5::t_4b4042455fd133 1-9
+01/logs/ind_ind05.txt
+  s_1835ccfb127cb5::t_a4feda42e0e28f 1-18
+01/logs/ind_ind06.txt
+  s_1835ccfb127cb5::t_9f722ef75459b8 1-26
+01/logs/ind_ind07.txt
+  s_1835ccfb127cb5::t_55d077952d70d7 1-28
+01/logs/ind_ind08.txt
+  s_1835ccfb127cb5::t_f8b933df87179e 1-3
+01/logs/ind_ind09.txt
+  s_1835ccfb127cb5::t_8f8ad9422c3a41 1-3
+01/logs/ind_ind10.txt
+  s_1835ccfb127cb5::t_8f9b05cde6df9d 1-13
+01/logs/ind_ind11.txt
+  s_1835ccfb127cb5::t_455b2d940e635c 1-31
+01/logs/ind_ind12.txt
+  s_1835ccfb127cb5::t_532d8010f083cd 1-8
+01/logs/ind_ind13.txt
+  s_1835ccfb127cb5::t_bc78589d30e4b1 1-12
+01/logs/ind_ind14.txt
+  s_1835ccfb127cb5::t_21bb4e4917235e 1-25
+01/logs/ind_ind15.txt
+  s_1835ccfb127cb5::t_889941e49c53c3 1-10
+01/logs/main_fig01.txt
+  s_1835ccfb127cb5::t_bb08b7f29c7934 1-4
+01/logs/main_fig02.txt
+  s_1835ccfb127cb5::t_5a16f07935a17d 1-3
+01/logs/main_fig03.txt
+  s_1835ccfb127cb5::t_176a387773df5e 1-26
+01/logs/main_fig04.txt
+  s_1835ccfb127cb5::t_27790b8c7b2729 1-4
+01/logs/main_fig06.txt
+  s_1835ccfb127cb5::t_676b7a5b2631b5 1-3
+01/logs/main_fig07.txt
+  s_1835ccfb127cb5::t_09260479f949be 1-5
+01/logs/main_fig08.txt
+  s_1835ccfb127cb5::t_5365eab7faa635 1-3
+01/logs/main_fig09.txt
+  s_1835ccfb127cb5::t_1134d7ff140d38 1-7
+01/logs/main_fig10.txt
+  s_1835ccfb127cb5::t_827fb309fbedff 1-3
+01/logs/main_fig11.txt
+  s_1835ccfb127cb5::t_d5818677a5bc92 1-5
+01/logs/main_fig12.txt
+  s_1835ccfb127cb5::t_f1ae7c1265af5e 1-4
+01/logs/main_fig13.txt
+  s_1835ccfb127cb5::t_f44c6c6375e271 1-8
+01/logs/main_fig14.txt
+  s_1835ccfb127cb5::t_3e4c313d35d7fd 1-11
+01/logs/main_fig15.txt
+  s_1835ccfb127cb5::t_5d7b4fd634a4b6 1-9
+01/logs/main_fig16.txt
+  s_1835ccfb127cb5::t_5a85f4a38b7d80 1-4
+01/logs/main_fig17.txt
+  s_1835ccfb127cb5::t_726a29a025361d 1-3
+01/logs/main_fig18.txt
+  s_1835ccfb127cb5::t_1b74657e3735d8 1-9
+01/logs/main_fig19.txt
+  s_1835ccfb127cb5::t_bbad7e6e875910 1-10
+01/logs/main_fig20.txt
+  s_1835ccfb127cb5::t_99cbc1bf9034a1 1-8
+01/logs/main_fig21.txt
+  s_1835ccfb127cb5::t_744cb39675db55 1-6
+01/logs/main_fig22.txt
+  s_1835ccfb127cb5::t_31fec36c638a3e 1-7
+01/scripts/build_pdf.py
+  s_1835ccfb127cb5::t_a469fcc93ecb84 1-86
+01/scripts/build_report.py
+  s_1835ccfb127cb5::t_533bc9745c481d 1-314
+01/scripts/render_shots.py
+  s_1835ccfb127cb5::t_860124b6dff367 1-51
+01/scripts/run_session.py
+  s_1835ccfb127cb5::t_42f5b26a419323 1-134
+01/scripts/task_individual.py
+  s_1835ccfb127cb5::t_86d8208a1f9f43 1-90
+01/scripts/task_main.py
+  s_1835ccfb127cb5::t_f05750efa6ecdf 1-78
+01/scripts/verify.sh
+  s_1835ccfb127cb5::t_8564dda5e2299c 1-13
+01/sql/01_main_task.sql
+  s_3abe740d7ebd5f::t_90a865b12a83dc 1-28
+01/sql/02_individual_task.sql
+  s_3abe740d7ebd5f::t_8b0e4c2e225b62 1-71
+02/README.md
+  s_1835ccfb127cb5::t_79efc05bd2bee7 1-51
+02/logs/ind_ind01.txt
+  s_1835ccfb127cb5::t_0214a06e984554 1-4
+02/logs/ind_ind02.txt
+  s_1835ccfb127cb5::t_9cc1a07a52527a 1-4
+02/logs/ind_ind03.txt
+  s_1835ccfb127cb5::t_51ef0c5970649a 1-6
+02/logs/ind_ind04.txt
+  s_1835ccfb127cb5::t_e075e1fdcee48e 1-10
+02/logs/ind_ind05.txt
+  s_1835ccfb127cb5::t_e1caf77c4eadde 1-19
+02/logs/ind_ind06.txt
+  s_1835ccfb127cb5::t_6b35d3544754bc 1-12
+02/logs/ind_ind07.txt
+  s_1835ccfb127cb5::t_48a6ab54a318f9 1-10
+02/logs/ind_ind08.txt
+  s_1835ccfb127cb5::t_254a9e2069502f 1-3
+02/logs/ind_ind09.txt
+  s_1835ccfb127cb5::t_fe651854cf6900 1-7
+02/logs/ind_ind10.txt
+  s_1835ccfb127cb5::t_0aa8225bc3c1e9 1-5
+02/logs/ind_ind11.txt
+  s_1835ccfb127cb5::t_75f8bf67422b53 1-3
+02/logs/ind_ind12.txt
+  s_1835ccfb127cb5::t_caf4f9c985c2f2 1-8
+02/logs/ind_ind13.txt
+  s_1835ccfb127cb5::t_8e63a1feb84c76 1-11
+02/logs/ind_ind14.txt
+  s_1835ccfb127cb5::t_0f1d329628d270 1-7
+02/logs/ind_ind15.txt
+  s_1835ccfb127cb5::t_6fc3bdf1c325bf 1-10
+02/logs/main_fig01.txt
+  s_1835ccfb127cb5::t_a6a8e04dcf9020 1-4
+02/logs/main_fig02.txt
+  s_1835ccfb127cb5::t_72607830acfad6 1-4
+02/logs/main_fig03.txt
+  s_1835ccfb127cb5::t_5682c8e0b33dea 1-6
+02/logs/main_fig04.txt
+  s_1835ccfb127cb5::t_b28140002bb2c3 1-6
+02/logs/main_fig05.txt
+  s_1835ccfb127cb5::t_ca88b759663b3a 1-5
+02/logs/main_fig06.txt
+  s_1835ccfb127cb5::t_b235b659895199 1-4
+02/logs/main_fig07.txt
+  s_1835ccfb127cb5::t_82784333a7676d 1-3
+02/logs/main_fig08.txt
+  s_1835ccfb127cb5::t_41053249946ed9 1-3
+02/logs/main_fig09.txt
+  s_1835ccfb127cb5::t_0e8332e041ca21 1-8
+02/logs/main_fig10.txt
+  s_1835ccfb127cb5::t_2b5e16718186ec 1-2
+02/logs/main_fig11.txt
+  s_1835ccfb127cb5::t_b8bed0230bb6d3 1-3
+02/logs/main_fig12.txt
+  s_1835ccfb127cb5::t_7694e252db61cf 1-3
+02/logs/main_fig13.txt
+  s_1835ccfb127cb5::t_ed222d048dbd78 1-3
+02/logs/main_fig14.txt
+  s_1835ccfb127cb5::t_b9041f0578a5d0 1-6
+02/logs/main_fig15.txt
+  s_1835ccfb127cb5::t_39dce4de8eac58 1-2
+02/logs/main_fig16.txt
+  s_1835ccfb127cb5::t_d1ce62de01bfe8 1-5
+02/logs/main_fig17.txt
+  s_1835ccfb127cb5::t_a44e51faf3e650 1-4
+02/logs/main_fig18.txt
+  s_1835ccfb127cb5::t_5ea1defde42ecb 1-2
+02/logs/main_fig19.txt
+  s_1835ccfb127cb5::t_54b393de038ae0 1-6
+02/logs/main_fig20.txt
+  s_1835ccfb127cb5::t_faa254a2f1e6e1 1-6
+02/logs/main_fig21.txt
+  s_1835ccfb127cb5::t_928c77b8993719 1-5
+02/logs/main_fig22.txt
+  s_1835ccfb127cb5::t_79ba58922d3c65 1-6
+02/logs/main_fig23.txt
+  s_1835ccfb127cb5::t_63e04b3716134d 1-3
+02/logs/main_fig24.txt
+  s_1835ccfb127cb5::t_48e8de3355f293 1-3
+02/logs/main_fig25.txt
+  s_1835ccfb127cb5::t_84bfabfabc0d3f 1-6
+02/logs/main_fig26.txt
+  s_1835ccfb127cb5::t_fdfc3e5bc75a68 1-2
+02/logs/main_fig27.txt
+  s_1835ccfb127cb5::t_a831c61e720a78 1-7
+02/logs/main_fig28.txt
+  s_1835ccfb127cb5::t_02eaca8b9d9aa7 1-8
+02/logs/main_fig30.txt
+  s_1835ccfb127cb5::t_713d7dc57d0a9c 1-2
+02/logs/main_fig31.txt
+  s_1835ccfb127cb5::t_361062bcd005ba 1-8
+02/logs/main_fig32.txt
+  s_1835ccfb127cb5::t_07e0bcf09588ab 1-9
+02/logs/main_fig33.txt
+  s_1835ccfb127cb5::t_39104840fc2903 1-5
+02/logs/main_fig34a.txt
+  s_1835ccfb127cb5::t_6daef51781ebad 1-3
+02/logs/main_fig35.txt
+  s_1835ccfb127cb5::t_4a46b8453ca6f6 1-3
+02/logs/main_fig36.txt
+  s_1835ccfb127cb5::t_708b1cd66f25ea 1-7
+02/logs/main_fig37.txt
+  s_1835ccfb127cb5::t_f44f65be518d44 1-6
+02/logs/main_fig38.txt
+  s_1835ccfb127cb5::t_f7c41ccbe70be2 1-2
+02/logs/main_fig39.txt
+  s_1835ccfb127cb5::t_f6380ff533e790 1-6
+02/logs/main_fig40.txt
+  s_1835ccfb127cb5::t_156c77bd550100 1-2
+02/logs/main_fig41.txt
+  s_1835ccfb127cb5::t_debcd58bc487cf 1-7
+02/logs/main_fig42.txt
+  s_1835ccfb127cb5::t_5f0067fe387854 1-6
+02/logs/main_fig43.txt
+  s_1835ccfb127cb5::t_452f58473b04f8 1-4
+02/logs/main_fig44.txt
+  s_1835ccfb127cb5::t_329fe5d4563d30 1-9
+02/scripts/build_pdf.py
+  s_1835ccfb127cb5::t_d38e12b9af128d 1-116
+02/scripts/build_report.py
+  s_1835ccfb127cb5::t_8be573f413872e 1-415
+02/scripts/render_shots.py
+  s_1835ccfb127cb5::t_df8520a4797a1f 1-52
+02/scripts/run_session.py
+  s_1835ccfb127cb5::t_6fe34f9a248846 1-125
+02/scripts/task_individual.py
+  s_1835ccfb127cb5::t_cc116576519b4c 1-87
+02/scripts/task_main.py
+  s_1835ccfb127cb5::t_7b2e1f7d93c503 1-99
+02/sql/01_main_task.sql
+  s_3abe740d7ebd5f::t_fd3bee71056fde 1-114
+02/sql/02_individual_task.sql
+  s_3abe740d7ebd5f::t_f211f5ce4032fb 1-75
+03/README.md
+  s_1835ccfb127cb5::t_a5f766aea6a6d0 1-45
+03/logs/ind_ind01.txt
+  s_1835ccfb127cb5::t_f440bdccaeac80 1-9
+03/logs/ind_ind02.txt
+  s_1835ccfb127cb5::t_fcf02ff9e72045 1-14
+03/logs/ind_ind03.txt
+  s_1835ccfb127cb5::t_3fe8e3990da6a2 1-7
+03/logs/ind_ind04.txt
+  s_1835ccfb127cb5::t_5b22c989e6d92f 1-21
+03/logs/ind_ind05.txt
+  s_1835ccfb127cb5::t_8f6921631f46ad 1-11
+03/logs/ind_ind06.txt
+  s_1835ccfb127cb5::t_cbd5fa7f2603ac 1-9
+03/logs/ind_ind07.txt
+  s_1835ccfb127cb5::t_153787ed9de262 1-18
+03/logs/main_fig01.txt
+  s_1835ccfb127cb5::t_e57434637789b0 1-5
+03/logs/main_fig02.txt
+  s_1835ccfb127cb5::t_6b0c577ebc1b9b 1-3
+03/logs/main_fig03.txt
+  s_1835ccfb127cb5::t_62128333a4e23e 1-16
+03/logs/main_fig07.txt
+  s_1835ccfb127cb5::t_0f6517aa77d6ce 1-21
+03/logs/main_fig08.txt
+  s_1835ccfb127cb5::t_4c22b9615d2d66 1-19
+03/logs/main_fig09.txt
+  s_1835ccfb127cb5::t_0428097e539c76 1-12
+03/logs/main_fig10.txt
+  s_1835ccfb127cb5::t_0cdead0da7b8a5 1-9
+03/logs/main_fig11.txt
+  s_1835ccfb127cb5::t_e074809414cf8a 1-9
+03/logs/main_fig12.txt
+  s_1835ccfb127cb5::t_5269ac2e3ac959 1-10
+03/logs/main_fig13.txt
+  s_1835ccfb127cb5::t_83d271f2480128 1-18
+03/logs/main_fig14.txt
+  s_1835ccfb127cb5::t_2c6490f75e9e31 1-12
+03/logs/main_fig15.txt
+  s_1835ccfb127cb5::t_5e6944321a58a5 1-12
+03/logs/main_fig16.txt
+  s_1835ccfb127cb5::t_a9a0fca14e580e 1-7
+03/logs/main_fig17.txt
+  s_1835ccfb127cb5::t_3412769e1c7e32 1-6
+03/logs/main_fig18.txt
+  s_1835ccfb127cb5::t_b8ead69d7b8299 1-5
+03/logs/main_fig19.txt
+  s_1835ccfb127cb5::t_f356b7f706623c 1-5
+03/logs/main_fig20.txt
+  s_1835ccfb127cb5::t_7d2fa46c1c7bfb 1-5
+03/logs/main_fig21.txt
+  s_1835ccfb127cb5::t_e69ff53c42e994 1-16
+03/logs/main_fig22.txt
+  s_1835ccfb127cb5::t_55c29149d9aaef 1-14
+03/logs/main_fig23.txt
+  s_1835ccfb127cb5::t_79f4df35884e7c 1-19
+03/logs/main_fig24.txt
+  s_1835ccfb127cb5::t_0f7223f15c1d11 1-14
+03/logs/main_fig25.txt
+  s_1835ccfb127cb5::t_f8527469a35c41 1-14
+03/logs/main_fig26.txt
+  s_1835ccfb127cb5::t_86bef4cb6a12b9 1-17
+03/logs/main_fig27.txt
+  s_1835ccfb127cb5::t_57d3f1f851c394 1-17
+03/logs/main_fig28.txt
+  s_1835ccfb127cb5::t_a0ee8c5f5bfc0b 1-11
+03/logs/main_fig29.txt
+  s_1835ccfb127cb5::t_eab184a312be13 1-14
+03/logs/main_fig30.txt
+  s_1835ccfb127cb5::t_51ba85dcbf9c41 1-12
+03/logs/main_fig31.txt
+  s_1835ccfb127cb5::t_c0891e544220ee 1-12
+03/logs/main_fig32.txt
+  s_1835ccfb127cb5::t_988dd615973e7f 1-15
+03/scripts/build_pdf.py
+  s_1835ccfb127cb5::t_39989ffb5ea703 1-114
+03/scripts/build_report.py
+  s_1835ccfb127cb5::t_c90a5741ec6a85 1-341
+03/scripts/gen_sql.py
+  s_1835ccfb127cb5::t_b91829f285da65 1-39
+03/scripts/render_shots.py
+  s_1835ccfb127cb5::t_1e235de2048e3b 1-52
+03/scripts/run_session.py
+  s_1835ccfb127cb5::t_c4dcc01dc214da 1-133
+03/scripts/task_individual.py
+  s_1835ccfb127cb5::t_46ebc5a2d9a886 1-42
+03/scripts/task_main.py
+  s_1835ccfb127cb5::t_3e8260bdc6bac0 1-81
+03/scripts/verify.sh
+  s_1835ccfb127cb5::t_c9a46873669148 1-9
+03/sql/01_main_task.sql
+  s_1835ccfb127cb5::t_fb3befaba23835 1-128
+03/sql/02_individual_task.sql
+  s_1835ccfb127cb5::t_06b598f2b00f58 1-43
+03/sql/foods.sql
+  s_1835ccfb127cb5::t_b7695908179222 1-1129
+README.md
+  s_1835ccfb127cb5::t_94a6b1bb59c174 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b712e88bede6e4514c9ad134bd5db3499345e330",
+  "prompts": {},
+  "sessions": {
+    "s_1835ccfb127cb5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ae2bdafc-2592-4b34-bba8-846f0054bca2",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Serhii Klymoshenko <Serhii.Klymoshenko@clinisys.com>"
+    },
+    "s_3abe740d7ebd5f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "421f88c1-4980-49d6-b049-711c52d9b194",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Serhii Klymoshenko <Serhii.Klymoshenko@clinisys.com>"
+    }
+  }
+}
