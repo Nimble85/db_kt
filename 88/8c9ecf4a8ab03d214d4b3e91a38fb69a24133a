@@ -1,0 +1,371 @@
+.gitignore
+  s_3abe740d7ebd5f::t_5262fedc7e9c41 1
+01/README.md
+  s_4c06979b7e58fe::t_efcbe9beb00dba 1-51
+01/db/authors.csv
+  s_4c06979b7e58fe::t_52408949189ced 1-10
+01/db/books.csv
+  s_4c06979b7e58fe::t_f22400a8063518 1-12
+01/db/library_dump.sql
+  s_4c06979b7e58fe::t_568c3ba89e8bd7 1-38
+01/db/myDump.sql
+  s_4c06979b7e58fe::t_8f078afd3dd029 1-7
+01/db/myDump2.sql
+  s_4c06979b7e58fe::t_0094395722efae 1-7
+01/db/stud.csv
+  s_4c06979b7e58fe::t_7044dc823ddf2a 1-4
+01/logs/ind_ind01.txt
+  s_4c06979b7e58fe::t_90c75c94da33d5 1-4
+01/logs/ind_ind02.txt
+  s_4c06979b7e58fe::t_9a0c1a5f7c0f4f 1-4
+01/logs/ind_ind03.txt
+  s_4c06979b7e58fe::t_772f59cf84a9d7 1-6
+01/logs/ind_ind04.txt
+  s_4c06979b7e58fe::t_197bcbb83edd8c 1-9
+01/logs/ind_ind05.txt
+  s_4c06979b7e58fe::t_19b23222188c3f 1-18
+01/logs/ind_ind06.txt
+  s_4c06979b7e58fe::t_06c7c0b123af74 1-26
+01/logs/ind_ind07.txt
+  s_4c06979b7e58fe::t_bd2727ba7d0afb 1-28
+01/logs/ind_ind08.txt
+  s_4c06979b7e58fe::t_235ae712db2a2e 1-3
+01/logs/ind_ind09.txt
+  s_4c06979b7e58fe::t_9bcbaebf719165 1-3
+01/logs/ind_ind10.txt
+  s_4c06979b7e58fe::t_0f7fb9329209c4 1-13
+01/logs/ind_ind11.txt
+  s_4c06979b7e58fe::t_b8cf9d608b881d 1-31
+01/logs/ind_ind12.txt
+  s_4c06979b7e58fe::t_48c882bf7db78e 1-8
+01/logs/ind_ind13.txt
+  s_4c06979b7e58fe::t_123cb28f43c808 1-12
+01/logs/ind_ind14.txt
+  s_4c06979b7e58fe::t_fca69f7c4d9c50 1-25
+01/logs/ind_ind15.txt
+  s_4c06979b7e58fe::t_fece2233d3ba2b 1-10
+01/logs/main_fig01.txt
+  s_4c06979b7e58fe::t_4310f3f7ae0799 1-4
+01/logs/main_fig02.txt
+  s_4c06979b7e58fe::t_75f10aee4e6342 1-3
+01/logs/main_fig03.txt
+  s_4c06979b7e58fe::t_12fa58d7ca2ef5 1-26
+01/logs/main_fig04.txt
+  s_4c06979b7e58fe::t_a2702367b14534 1-4
+01/logs/main_fig06.txt
+  s_4c06979b7e58fe::t_b45c2fcd3c567b 1-3
+01/logs/main_fig07.txt
+  s_4c06979b7e58fe::t_834712557ef4f3 1-5
+01/logs/main_fig08.txt
+  s_4c06979b7e58fe::t_2034c78a04245f 1-3
+01/logs/main_fig09.txt
+  s_4c06979b7e58fe::t_221a225da541ae 1-7
+01/logs/main_fig10.txt
+  s_4c06979b7e58fe::t_0180ded932c801 1-3
+01/logs/main_fig11.txt
+  s_4c06979b7e58fe::t_24b60e476b811f 1-5
+01/logs/main_fig12.txt
+  s_4c06979b7e58fe::t_32cd4234afe400 1-4
+01/logs/main_fig13.txt
+  s_4c06979b7e58fe::t_4d0ce471ed3ceb 1-8
+01/logs/main_fig14.txt
+  s_4c06979b7e58fe::t_89f3a7d7148c65 1-11
+01/logs/main_fig15.txt
+  s_4c06979b7e58fe::t_7ea1d5ceef2176 1-9
+01/logs/main_fig16.txt
+  s_4c06979b7e58fe::t_d55c4ee9c5af12 1-4
+01/logs/main_fig17.txt
+  s_4c06979b7e58fe::t_c08a438b593dc2 1-3
+01/logs/main_fig18.txt
+  s_4c06979b7e58fe::t_aa5cdb553871b7 1-9
+01/logs/main_fig19.txt
+  s_4c06979b7e58fe::t_a24c6f098fc08e 1-10
+01/logs/main_fig20.txt
+  s_4c06979b7e58fe::t_13cd7f7ee9e0a2 1-8
+01/logs/main_fig21.txt
+  s_4c06979b7e58fe::t_4633a1f0743571 1-6
+01/logs/main_fig22.txt
+  s_4c06979b7e58fe::t_ddbbc4d308f19c 1-7
+01/scripts/build_pdf.py
+  s_4c06979b7e58fe::t_548f57271fb874 1-86
+01/scripts/build_report.py
+  s_4c06979b7e58fe::t_a75a328dac6245 1-314
+01/scripts/render_shots.py
+  s_4c06979b7e58fe::t_126f678c59407d 1-51
+01/scripts/run_session.py
+  s_4c06979b7e58fe::t_17efd6328f2f3c 1-134
+01/scripts/task_individual.py
+  s_4c06979b7e58fe::t_47f2287a74096c 1-90
+01/scripts/task_main.py
+  s_4c06979b7e58fe::t_c2f51680531560 1-78
+01/scripts/verify.sh
+  s_4c06979b7e58fe::t_5f223422e1153a 1-13
+01/sql/01_main_task.sql
+  s_3abe740d7ebd5f::t_f20de924961ef7 1-28
+01/sql/02_individual_task.sql
+  s_3abe740d7ebd5f::t_c2b74370cdaafb 1-71
+02/README.md
+  s_4c06979b7e58fe::t_a46c3e22f8e87e 1-51
+02/logs/ind_ind01.txt
+  s_4c06979b7e58fe::t_56c5ad084aaaf3 1-4
+02/logs/ind_ind02.txt
+  s_4c06979b7e58fe::t_a35bb83c0b2e4b 1-4
+02/logs/ind_ind03.txt
+  s_4c06979b7e58fe::t_7fcb209515c067 1-6
+02/logs/ind_ind04.txt
+  s_4c06979b7e58fe::t_89e109683a9c6d 1-10
+02/logs/ind_ind05.txt
+  s_4c06979b7e58fe::t_36c627f328925d 1-19
+02/logs/ind_ind06.txt
+  s_4c06979b7e58fe::t_8a8c25f42fb6ce 1-12
+02/logs/ind_ind07.txt
+  s_4c06979b7e58fe::t_79e0c4cff68cfd 1-10
+02/logs/ind_ind08.txt
+  s_4c06979b7e58fe::t_d3c7ff01f0405a 1-3
+02/logs/ind_ind09.txt
+  s_4c06979b7e58fe::t_d224e97ccd3ee5 1-7
+02/logs/ind_ind10.txt
+  s_4c06979b7e58fe::t_fc1938256ef88d 1-5
+02/logs/ind_ind11.txt
+  s_4c06979b7e58fe::t_8d80d97dc1f12d 1-3
+02/logs/ind_ind12.txt
+  s_4c06979b7e58fe::t_b43ec86cd72f27 1-8
+02/logs/ind_ind13.txt
+  s_4c06979b7e58fe::t_e059e1c51873f5 1-11
+02/logs/ind_ind14.txt
+  s_4c06979b7e58fe::t_25883d1be1404c 1-7
+02/logs/ind_ind15.txt
+  s_4c06979b7e58fe::t_02a9d8f6c31eb6 1-10
+02/logs/main_fig01.txt
+  s_4c06979b7e58fe::t_8b26c8c5645be5 1-4
+02/logs/main_fig02.txt
+  s_4c06979b7e58fe::t_e3341f56075888 1-4
+02/logs/main_fig03.txt
+  s_4c06979b7e58fe::t_9acb4d83334b43 1-6
+02/logs/main_fig04.txt
+  s_4c06979b7e58fe::t_8eb99bc1eefbd4 1-6
+02/logs/main_fig05.txt
+  s_4c06979b7e58fe::t_46458df6b0ad13 1-5
+02/logs/main_fig06.txt
+  s_4c06979b7e58fe::t_0e74ffcf3d6cfd 1-4
+02/logs/main_fig07.txt
+  s_4c06979b7e58fe::t_2e67115508691f 1-3
+02/logs/main_fig08.txt
+  s_4c06979b7e58fe::t_2f2f0c3bbd1ed4 1-3
+02/logs/main_fig09.txt
+  s_4c06979b7e58fe::t_4e5093d0def9b2 1-8
+02/logs/main_fig10.txt
+  s_4c06979b7e58fe::t_0cb6c79b4df4d9 1-2
+02/logs/main_fig11.txt
+  s_4c06979b7e58fe::t_5088b65d3f14af 1-3
+02/logs/main_fig12.txt
+  s_4c06979b7e58fe::t_34b30c437aad66 1-3
+02/logs/main_fig13.txt
+  s_4c06979b7e58fe::t_d045ec4676d56a 1-3
+02/logs/main_fig14.txt
+  s_4c06979b7e58fe::t_f8de3b555a84d4 1-6
+02/logs/main_fig15.txt
+  s_4c06979b7e58fe::t_f413c5d4dd1b95 1-2
+02/logs/main_fig16.txt
+  s_4c06979b7e58fe::t_bbc4d2aa4b2513 1-5
+02/logs/main_fig17.txt
+  s_4c06979b7e58fe::t_14e291e0488ea6 1-4
+02/logs/main_fig18.txt
+  s_4c06979b7e58fe::t_3f2b68e9bcf0de 1-2
+02/logs/main_fig19.txt
+  s_4c06979b7e58fe::t_1e946dbf93ac1e 1-6
+02/logs/main_fig20.txt
+  s_4c06979b7e58fe::t_9002a8d695a24b 1-6
+02/logs/main_fig21.txt
+  s_4c06979b7e58fe::t_9ff9e7e56a0993 1-5
+02/logs/main_fig22.txt
+  s_4c06979b7e58fe::t_530f7ae41966b0 1-6
+02/logs/main_fig23.txt
+  s_4c06979b7e58fe::t_62b63fd94b5626 1-3
+02/logs/main_fig24.txt
+  s_4c06979b7e58fe::t_cd2318d7d64e51 1-3
+02/logs/main_fig25.txt
+  s_4c06979b7e58fe::t_b5f6d5baa2e8c6 1-6
+02/logs/main_fig26.txt
+  s_4c06979b7e58fe::t_2beb6f7e06f9bb 1-2
+02/logs/main_fig27.txt
+  s_4c06979b7e58fe::t_ed6e4bc105ee62 1-7
+02/logs/main_fig28.txt
+  s_4c06979b7e58fe::t_26eb9c6a83ebc1 1-8
+02/logs/main_fig30.txt
+  s_4c06979b7e58fe::t_51c14e3e600574 1-2
+02/logs/main_fig31.txt
+  s_4c06979b7e58fe::t_a5f762587f6d7b 1-8
+02/logs/main_fig32.txt
+  s_4c06979b7e58fe::t_92931dde46f7a9 1-9
+02/logs/main_fig33.txt
+  s_4c06979b7e58fe::t_5399356ebd3cde 1-5
+02/logs/main_fig34a.txt
+  s_4c06979b7e58fe::t_257f5a65ab1728 1-3
+02/logs/main_fig35.txt
+  s_4c06979b7e58fe::t_886725124a5d4d 1-3
+02/logs/main_fig36.txt
+  s_4c06979b7e58fe::t_102289f258fd0d 1-7
+02/logs/main_fig37.txt
+  s_4c06979b7e58fe::t_7ecad18b3fc293 1-6
+02/logs/main_fig38.txt
+  s_4c06979b7e58fe::t_8e062ee72af42f 1-2
+02/logs/main_fig39.txt
+  s_4c06979b7e58fe::t_ed76ba99d89c16 1-6
+02/logs/main_fig40.txt
+  s_4c06979b7e58fe::t_4bf6562cf0be1f 1-2
+02/logs/main_fig41.txt
+  s_4c06979b7e58fe::t_4df190b6d92beb 1-7
+02/logs/main_fig42.txt
+  s_4c06979b7e58fe::t_fbbf096c3ee879 1-6
+02/logs/main_fig43.txt
+  s_4c06979b7e58fe::t_34e441ded7a486 1-4
+02/logs/main_fig44.txt
+  s_4c06979b7e58fe::t_3feede17e825ba 1-9
+02/scripts/build_pdf.py
+  s_4c06979b7e58fe::t_e1e48e8606ea44 1-116
+02/scripts/build_report.py
+  s_4c06979b7e58fe::t_c4cb36f381b45f 1-415
+02/scripts/render_shots.py
+  s_4c06979b7e58fe::t_0618ec4895c333 1-52
+02/scripts/run_session.py
+  s_4c06979b7e58fe::t_e803b89f73b988 1-125
+02/scripts/task_individual.py
+  s_4c06979b7e58fe::t_f195458a03082d 1-87
+02/scripts/task_main.py
+  s_4c06979b7e58fe::t_81820d09b97c1f 1-99
+02/sql/01_main_task.sql
+  s_3abe740d7ebd5f::t_64bc868c1e459c 1-114
+02/sql/02_individual_task.sql
+  s_3abe740d7ebd5f::t_28f0b744e2425f 1-75
+03/README.md
+  s_4c06979b7e58fe::t_0e857517450bb3 1-45
+03/logs/ind_ind01.txt
+  s_4c06979b7e58fe::t_04e01223c066f8 1-9
+03/logs/ind_ind02.txt
+  s_4c06979b7e58fe::t_6200a30560c69c 1-14
+03/logs/ind_ind03.txt
+  s_4c06979b7e58fe::t_cf1ab7dd8181a9 1-7
+03/logs/ind_ind04.txt
+  s_4c06979b7e58fe::t_b426e11ca2f8ed 1-21
+03/logs/ind_ind05.txt
+  s_4c06979b7e58fe::t_a04e4eeb624495 1-11
+03/logs/ind_ind06.txt
+  s_4c06979b7e58fe::t_3dd330a1f24e7d 1-9
+03/logs/ind_ind07.txt
+  s_4c06979b7e58fe::t_bebd01b3457112 1-18
+03/logs/main_fig01.txt
+  s_4c06979b7e58fe::t_c44f8aae412fd7 1-5
+03/logs/main_fig02.txt
+  s_4c06979b7e58fe::t_3516f4322761a5 1-3
+03/logs/main_fig03.txt
+  s_4c06979b7e58fe::t_d755fea0e9730b 1-16
+03/logs/main_fig07.txt
+  s_4c06979b7e58fe::t_21181099c1c61a 1-21
+03/logs/main_fig08.txt
+  s_4c06979b7e58fe::t_dc4890c26716d0 1-19
+03/logs/main_fig09.txt
+  s_4c06979b7e58fe::t_958113989ba563 1-12
+03/logs/main_fig10.txt
+  s_4c06979b7e58fe::t_2a418a3945326b 1-9
+03/logs/main_fig11.txt
+  s_4c06979b7e58fe::t_ce6a25b285d838 1-9
+03/logs/main_fig12.txt
+  s_4c06979b7e58fe::t_07a1a395eaa4ce 1-10
+03/logs/main_fig13.txt
+  s_4c06979b7e58fe::t_3d0bfd62c9e909 1-18
+03/logs/main_fig14.txt
+  s_4c06979b7e58fe::t_ac220b5c15f7bf 1-12
+03/logs/main_fig15.txt
+  s_4c06979b7e58fe::t_58d1b5c30620f6 1-12
+03/logs/main_fig16.txt
+  s_4c06979b7e58fe::t_787e430892e92f 1-7
+03/logs/main_fig17.txt
+  s_4c06979b7e58fe::t_d15ac8be1f17c3 1-6
+03/logs/main_fig18.txt
+  s_4c06979b7e58fe::t_f69fd568530c0d 1-5
+03/logs/main_fig19.txt
+  s_4c06979b7e58fe::t_45e9fbeb0f5beb 1-5
+03/logs/main_fig20.txt
+  s_4c06979b7e58fe::t_3d44690bd7ad28 1-5
+03/logs/main_fig21.txt
+  s_4c06979b7e58fe::t_e3195645c98344 1-16
+03/logs/main_fig22.txt
+  s_4c06979b7e58fe::t_687521e0c27538 1-14
+03/logs/main_fig23.txt
+  s_4c06979b7e58fe::t_6fc7af6e829952 1-19
+03/logs/main_fig24.txt
+  s_4c06979b7e58fe::t_2d726d649a3ccf 1-14
+03/logs/main_fig25.txt
+  s_4c06979b7e58fe::t_bfb637cacc7192 1-14
+03/logs/main_fig26.txt
+  s_4c06979b7e58fe::t_616b42abaccc33 1-17
+03/logs/main_fig27.txt
+  s_4c06979b7e58fe::t_1b9be61839459b 1-17
+03/logs/main_fig28.txt
+  s_4c06979b7e58fe::t_8cfacb32574094 1-11
+03/logs/main_fig29.txt
+  s_4c06979b7e58fe::t_42a809a50f2d6d 1-14
+03/logs/main_fig30.txt
+  s_4c06979b7e58fe::t_83daf800701a0f 1-12
+03/logs/main_fig31.txt
+  s_4c06979b7e58fe::t_13c990c2606965 1-12
+03/logs/main_fig32.txt
+  s_4c06979b7e58fe::t_f83074696e91e0 1-15
+03/scripts/build_pdf.py
+  s_4c06979b7e58fe::t_b114f99069c64a 1-114
+03/scripts/build_report.py
+  s_4c06979b7e58fe::t_935c1e8a8c70cf 1-341
+03/scripts/gen_sql.py
+  s_4c06979b7e58fe::t_f4f2c0033e0306 1-39
+03/scripts/render_shots.py
+  s_4c06979b7e58fe::t_e9ea6834561818 1-52
+03/scripts/run_session.py
+  s_4c06979b7e58fe::t_0f844e303dd1c6 1-133
+03/scripts/task_individual.py
+  s_4c06979b7e58fe::t_e03ce4ec7e04c1 1-42
+03/scripts/task_main.py
+  s_4c06979b7e58fe::t_ee7e5212d87fcc 1-81
+03/scripts/verify.sh
+  s_4c06979b7e58fe::t_0f4df5e9b0f136 1-9
+03/sql/01_main_task.sql
+  s_1835ccfb127cb5::t_e249294fd8c311 1-128
+03/sql/02_individual_task.sql
+  s_1835ccfb127cb5::t_61f68b8ad5a344 1-43
+03/sql/foods.sql
+  s_1835ccfb127cb5::t_01ac23fa558007 1-1129
+README.md
+  s_4c06979b7e58fe::t_e1aec1bb1ba9f0 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "888c9ecf4a8ab03d214d4b3e91a38fb69a24133a",
+  "prompts": {},
+  "sessions": {
+    "s_1835ccfb127cb5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ae2bdafc-2592-4b34-bba8-846f0054bca2",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Serhii Klymoshenko <Serhii.Klymoshenko@clinisys.com>"
+    },
+    "s_3abe740d7ebd5f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "421f88c1-4980-49d6-b049-711c52d9b194",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Serhii Klymoshenko <Serhii.Klymoshenko@clinisys.com>"
+    },
+    "s_4c06979b7e58fe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "33907fa5-f907-4406-93f8-36bd725c0116",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Serhii Klymoshenko <Serhii.Klymoshenko@clinisys.com>"
+    }
+  }
+}
