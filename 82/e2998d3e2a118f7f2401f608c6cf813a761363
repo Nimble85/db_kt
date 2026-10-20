@@ -1,0 +1,19 @@
+README.md
+  s_4c06979b7e58fe::t_01af6459619a5d 7-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "82e2998d3e2a118f7f2401f608c6cf813a761363",
+  "prompts": {},
+  "sessions": {
+    "s_4c06979b7e58fe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "33907fa5-f907-4406-93f8-36bd725c0116",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Serhii Klymoshenko <Serhii.Klymoshenko@clinisys.com>"
+    }
+  }
+}
